@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cream">#FAF9F4</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="dark_green">#344532</color>
+    <color name="sage">#78916F</color>
+    <color name="light_sage">#E8EDDF</color>
+
+    <color name="text_dark">#444941</color>
+    <color name="gray">#777C74</color>
+    <color name="light_gray">#B4B8B0</color>
+
+    <!-- Border -->
+    <color name="border">#D3DACB</color>
+
+</resources>
