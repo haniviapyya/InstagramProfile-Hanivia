@@ -86,6 +86,7 @@
                 <!-- NAMA -->
 
                 <TextView
+                    android:id="@+id/txtName"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/student_name"
@@ -201,6 +202,7 @@
             android:paddingBottom="10dp">
 
             <TextView
+                android:id="@+id/txtBio"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/bio"
